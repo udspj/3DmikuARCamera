@@ -1,7 +1,7 @@
 # 3DmikuARCamera
 no AR mark card , user interaction enabled , you can control miku by drag、rotate、zoom
 
-by Xcode 6.3.2 Objective-C
+by Xcode 6.3.2 Objective-C , GLKit , openGL ES 2.0
 
 At least iOS 6.0
 
